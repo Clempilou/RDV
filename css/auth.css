@@ -1,0 +1,14 @@
+.simple-formulaire{
+  margin: auto;
+  width:30%;
+}
+
+.champ{
+height: 40px; 
+width: 100%;
+border-radius: 4px;
+}
+
+#champMdp{
+    background:transparent url(../static/images/eye.png) no-repeat scroll 100% 0;
+}
